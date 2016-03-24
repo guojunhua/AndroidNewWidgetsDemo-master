@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ToggleButton-master.iml" filepath="$PROJECT_DIR$/ToggleButton-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToggleButtonLib/ToggleButtonLib.iml" filepath="$PROJECT_DIR$/ToggleButtonLib/ToggleButtonLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToggleButtonSample/ToggleButtonSample.iml" filepath="$PROJECT_DIR$/ToggleButtonSample/ToggleButtonSample.iml" />
+    </modules>
+  </component>
+</project>

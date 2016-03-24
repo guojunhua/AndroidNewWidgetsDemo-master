@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\workspace\\TimelineText\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listview.xml",
+        "source": "E:\\workspace\\TimelineText\\app\\src\\main\\res\\layout\\activity_listview.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TimelineText\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "E:\\workspace\\TimelineText\\app\\src\\main\\res\\layout\\listview_item.xml"
+    }
+]

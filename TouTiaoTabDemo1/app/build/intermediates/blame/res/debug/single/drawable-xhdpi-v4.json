@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\workspace\\TouTiaoTabDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\refreshicon_titlebar.png",
+        "source": "E:\\workspace\\TouTiaoTabDemo1\\app\\src\\main\\res\\drawable-xhdpi\\refreshicon_titlebar.png"
+    },
+    {
+        "merged": "E:\\workspace\\TouTiaoTabDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\right_drawer_normal.png",
+        "source": "E:\\workspace\\TouTiaoTabDemo1\\app\\src\\main\\res\\drawable-xhdpi\\right_drawer_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\TouTiaoTabDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_category_expand_pressed.png",
+        "source": "E:\\workspace\\TouTiaoTabDemo1\\app\\src\\main\\res\\drawable-xhdpi\\ic_category_expand_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\TouTiaoTabDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\workspace\\TouTiaoTabDemo1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\TouTiaoTabDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_round_head.png",
+        "source": "E:\\workspace\\TouTiaoTabDemo1\\app\\src\\main\\res\\drawable-xhdpi\\default_round_head.png"
+    },
+    {
+        "merged": "E:\\workspace\\TouTiaoTabDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "E:\\workspace\\TouTiaoTabDemo1\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\TouTiaoTabDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\right_drawer_pressed.png",
+        "source": "E:\\workspace\\TouTiaoTabDemo1\\app\\src\\main\\res\\drawable-xhdpi\\right_drawer_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\TouTiaoTabDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_category_expand_normal.png",
+        "source": "E:\\workspace\\TouTiaoTabDemo1\\app\\src\\main\\res\\drawable-xhdpi\\ic_category_expand_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\TouTiaoTabDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title.png",
+        "source": "E:\\workspace\\TouTiaoTabDemo1\\app\\src\\main\\res\\drawable-xhdpi\\title.png"
+    },
+    {
+        "merged": "E:\\workspace\\TouTiaoTabDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_category_right_edge.png",
+        "source": "E:\\workspace\\TouTiaoTabDemo1\\app\\src\\main\\res\\drawable-xhdpi\\ic_category_right_edge.png"
+    }
+]

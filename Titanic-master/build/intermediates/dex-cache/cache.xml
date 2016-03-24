@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\workspace\Titanic-master\sample\build\intermediates\exploded-aar\Titanic-master\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e5b16625fc006788bbb88a7406a2433de01df6a">
+        <dex dex="E:\workspace\Titanic-master\sample\build\intermediates\pre-dexed\debug\Titanic-master-library-unspecified_320ed78dd1b4abdab2dc4138fb88422c94049898.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Titanic-master\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="E:\workspace\Titanic-master\sample\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_a673d45e7411aa3a9faa7e75ce04cbc315c66965.jar" />
+    </item>
+    <item
+        jar="D:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="E:\workspace\Titanic-master\sample\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_4543f385a2913608bbd26dfbe71e3fa9ad87a983.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Titanic-master\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="E:\workspace\Titanic-master\sample\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_ad861f90106913d16bd7d0902068d6e905144e5c.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Titanic-master\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="E:\workspace\Titanic-master\sample\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_c3ad10ef45088640999f6e9484fdc7d391437428.jar" />
+    </item>
+
+</items>

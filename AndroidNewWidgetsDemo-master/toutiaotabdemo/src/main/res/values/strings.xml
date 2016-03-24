@@ -1,0 +1,11 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">今日头条</string>
+    <string name="category_society">性感妹</string>
+    <string name="category_video">文艺范</string>
+    <string name="category_tech">黑丝袜</string>
+    <string name="category_entertainment">大长腿</string>
+    <string name="category_finance">小翘臀</string>
+    <string name="category_hot">大胸妹</string>
+    <string name="category_positive">小清新</string>
+</resources>

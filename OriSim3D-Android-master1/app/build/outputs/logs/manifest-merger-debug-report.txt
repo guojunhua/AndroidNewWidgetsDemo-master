@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:2:1-26:12
+	xmlns:a
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:2:11-63
+	package
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:3:2-25
+		INJECTED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml
+	a:versionName
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:5:2-30
+		INJECTED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml
+	a:versionCode
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:4:2-19
+		INJECTED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:6:2-57
+	a:targetSdkVersion
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:6:32-55
+		INJECTED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml
+	a:minSdkVersion
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:6:12-31
+		INJECTED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:7:2-146
+	a:resizeable
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:7:107-126
+	a:largeScreens
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:7:85-106
+	a:anyDensity
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:7:20-39
+	a:normalScreens
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:7:40-62
+	a:smallScreens
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:7:63-84
+uses-feature#0x00020000
+ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:8:5-66
+	a:required
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:8:46-63
+	a:glEsVersion
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:8:19-45
+application
+ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:9:5-25:19
+	a:label
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:10:6-36
+	a:allowBackup
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:9:18-38
+	a:icon
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:11:6-43
+	a:process
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:12:6-46
+	a:allowClearUserData
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:13:9-36
+activity#rk.or.android.ModelSelection
+ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:14:9-19:20
+	a:noHistory
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:14:67-86
+	a:stateNotNeeded
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:14:43-66
+	a:name
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:14:19-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:16:17-63
+	a:name
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:16:25-60
+category#android.intent.category.LAUNCHER
+ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:17:17-71
+	a:name
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:17:27-68
+activity#rk.or.android.ModelView
+ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:20:9-24:20
+	a:noHistory
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:20:62-80
+	a:stateNotNeeded
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:20:38-61
+	a:exported
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:20:81-99
+	a:name
+		ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:20:19-37
+intent-filter#android.intent.action.MAIN
+ADDED from E:\workspace\OriSim3D-Android-master1\app\src\main\AndroidManifest.xml:21:13-23:29

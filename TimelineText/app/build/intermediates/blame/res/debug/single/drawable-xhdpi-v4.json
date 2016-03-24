@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\workspace\\TimelineText\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\timeline_month_day.png",
+        "source": "E:\\workspace\\TimelineText\\app\\src\\main\\res\\drawable-xhdpi\\timeline_month_day.png"
+    },
+    {
+        "merged": "E:\\workspace\\TimelineText\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_green_circle_smic.png",
+        "source": "E:\\workspace\\TimelineText\\app\\src\\main\\res\\drawable-xhdpi\\bg_green_circle_smic.png"
+    },
+    {
+        "merged": "E:\\workspace\\TimelineText\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\timeline_content.9.png",
+        "source": "E:\\workspace\\TimelineText\\app\\src\\main\\res\\drawable-xhdpi\\timeline_content.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\TimelineText\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_circle.png",
+        "source": "E:\\workspace\\TimelineText\\app\\src\\main\\res\\drawable-xhdpi\\personal_circle.png"
+    },
+    {
+        "merged": "E:\\workspace\\TimelineText\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\timeline_green.png",
+        "source": "E:\\workspace\\TimelineText\\app\\src\\main\\res\\drawable-xhdpi\\timeline_green.png"
+    },
+    {
+        "merged": "E:\\workspace\\TimelineText\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\timeline_year.png",
+        "source": "E:\\workspace\\TimelineText\\app\\src\\main\\res\\drawable-xhdpi\\timeline_year.png"
+    }
+]

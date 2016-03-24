@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidNewWidgetsDemo-master.iml" filepath="$PROJECT_DIR$/AndroidNewWidgetsDemo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expresspost/expresspost.iml" filepath="$PROJECT_DIR$/expresspost/expresspost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huabanfuli/huabanfuli.iml" filepath="$PROJECT_DIR$/huabanfuli/huabanfuli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im/im.iml" filepath="$PROJECT_DIR$/im/im.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taonvlangdemo/taonvlangdemo.iml" filepath="$PROJECT_DIR$/taonvlangdemo/taonvlangdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toutiaotabdemo/toutiaotabdemo.iml" filepath="$PROJECT_DIR$/toutiaotabdemo/toutiaotabdemo.iml" />
+    </modules>
+  </component>
+</project>

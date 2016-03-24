@@ -1,0 +1,254 @@
+[
+    {
+        "outputFile": "E:\\workspace\\drawCircleAndLine\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "E:\\workspace\\drawCircleAndLine\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 136,
+                        "endColumn": 37,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 37,
+                    "endOffset": 128
+                },
+                "from": {
+                    "file": "E:\\workspace\\drawCircleAndLine\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 99,
+                        "endColumn": 35,
+                        "endOffset": 132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 133,
+                    "endColumn": 44,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "E:\\workspace\\drawCircleAndLine\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 37,
+                    "endOffset": 354
+                },
+                "from": {
+                    "file": "E:\\workspace\\drawCircleAndLine\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 37,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 359,
+                    "endColumn": 37,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "E:\\workspace\\drawCircleAndLine\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 96,
+                        "endColumn": 37,
+                        "endOffset": 129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 37,
+                    "endOffset": 430
+                },
+                "from": {
+                    "file": "E:\\workspace\\drawCircleAndLine\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 135,
+                        "endColumn": 37,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 435,
+                    "endColumn": 37,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "E:\\workspace\\drawCircleAndLine\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 37,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endColumn": 35,
+                    "endOffset": 504
+                },
+                "from": {
+                    "file": "E:\\workspace\\drawCircleAndLine\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 35,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 509,
+                    "endColumn": 35,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "E:\\workspace\\drawCircleAndLine\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 332,
+                        "endColumn": 35,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endColumn": 35,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "E:\\workspace\\drawCircleAndLine\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 369,
+                        "endColumn": 35,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 35,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "E:\\workspace\\drawCircleAndLine\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endColumn": 35,
+                        "endOffset": 246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endColumn": 39,
+                    "endOffset": 652
+                },
+                "from": {
+                    "file": "E:\\workspace\\drawCircleAndLine\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endColumn": 39,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 657,
+                    "endColumn": 54,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "E:\\workspace\\drawCircleAndLine\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 54,
+                        "endOffset": 107
+                    }
+                }
+            }
+        ]
+    }
+]

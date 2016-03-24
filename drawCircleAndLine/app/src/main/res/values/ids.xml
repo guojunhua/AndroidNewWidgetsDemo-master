@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="circle_a" type="id"/>
+    <item name="circle_b" type="id"/>
+    <item name="circle_c" type="id"/>
+    <item name="circle_d" type="id"/>
+
+    <item name="text_a" type="id"/>
+    <item name="text_a_top" type="id"/>
+
+    <item name="line_a" type="id"/>
+    <item name="line_b" type="id"/>
+    <item name="line_c" type="id"/>
+
+</resources>

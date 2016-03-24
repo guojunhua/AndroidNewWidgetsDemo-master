@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\workspace\\TouTiaoTabDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_expand.xml",
+        "source": "E:\\workspace\\TouTiaoTabDemo1\\app\\src\\main\\res\\drawable\\ic_category_expand.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TouTiaoTabDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_head_pressed.xml",
+        "source": "E:\\workspace\\TouTiaoTabDemo1\\app\\src\\main\\res\\drawable\\bg_head_pressed.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TouTiaoTabDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_head.xml",
+        "source": "E:\\workspace\\TouTiaoTabDemo1\\app\\src\\main\\res\\drawable\\bg_head.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TouTiaoTabDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_titlebar_main.xml",
+        "source": "E:\\workspace\\TouTiaoTabDemo1\\app\\src\\main\\res\\drawable\\bg_titlebar_main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TouTiaoTabDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_category_indicator_dark.xml",
+        "source": "E:\\workspace\\TouTiaoTabDemo1\\app\\src\\main\\res\\drawable\\bg_category_indicator_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TouTiaoTabDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_left_edge.xml",
+        "source": "E:\\workspace\\TouTiaoTabDemo1\\app\\src\\main\\res\\drawable\\ic_category_left_edge.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TouTiaoTabDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_category_bar.xml",
+        "source": "E:\\workspace\\TouTiaoTabDemo1\\app\\src\\main\\res\\drawable\\bg_category_bar.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TouTiaoTabDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_category_indicator.xml",
+        "source": "E:\\workspace\\TouTiaoTabDemo1\\app\\src\\main\\res\\drawable\\bg_category_indicator.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TouTiaoTabDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_head_normal.xml",
+        "source": "E:\\workspace\\TouTiaoTabDemo1\\app\\src\\main\\res\\drawable\\bg_head_normal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TouTiaoTabDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_drawer.xml",
+        "source": "E:\\workspace\\TouTiaoTabDemo1\\app\\src\\main\\res\\drawable\\right_drawer.xml"
+    }
+]
